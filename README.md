@@ -122,6 +122,11 @@ them. GitHub refuses files over 100 MB, so a committed dataset stops your pushes
 
 ## Labs and submission
 
+**Lab 5 has two parts.** `Labs/Lab.5/Lab.5.ipynb` is the matrix class, the main assignment.
+`Labs/Lab.5/Lab.5.CommandLine.ipynb` is the shorter piece we work through in the lab session:
+getting a data file into shape from the command line, using `bank-churn.csv` beside it and
+files already in `Lectures/`. Nothing to download.
+
 Lab work is submitted through your own **fork** of this repository:
 
 - you fork this repository once on GitHub, giving you your own copy under your account;
